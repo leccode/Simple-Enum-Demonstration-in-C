@@ -12,7 +12,7 @@ int main() // A main function that the whole program is inside of it and defines
     // enum returns the integer starting from 0 and not the strings. Pay attention here! value3 is equal to 4
     enum Variables {value1, value2, value3 = 4, value4, value5};
 
-    // Defining the varaibles
+    // Defining the variables
     enum Variables variable1, variable2, variable3, variable4;
 
     // Setting the valid values of the above variables
