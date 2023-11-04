@@ -22,7 +22,7 @@ int main() // A main function that the whole program is inside of it and defines
     variable4 = value4;
 
     // Printing the results and the \ is used to continue coding in a next line
-    printf("Output Result:\n\nThe Variable 1 is: %d\nThe Variable 2 is: %d\n\
+    printf("\nOutput Result:\n\nThe Variable 1 is: %d\nThe Variable 2 is: %d\n\
 The Variable 3 is: %d\nThe Variable 4 is: %d\n\n", variable1, variable2, variable3, variable4);
 
     /* If you run it, the Output is:
